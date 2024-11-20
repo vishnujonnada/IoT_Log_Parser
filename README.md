@@ -26,8 +26,6 @@ pip install flask pandas matplotlib seaborn
 1. **/templates**: This folder contains the `dashboard.html` file that renders the visualizations.
 2. **/app.py**: The main Flask application script.
 
-The `output` folder is where all the generated images will be stored. Each plot will be saved in a separate folder (`output1`, `output2`, etc.).
-
 ### Setup
 
 1. Clone or download this repository.
