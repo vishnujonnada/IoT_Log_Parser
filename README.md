@@ -1,4 +1,4 @@
-# Flask Log Parser and Dashboard
+# IoT Log Parser and Dashboard
 
 This project is a Flask-based log parser that processes log files, extracts meaningful insights, and generates visualizations for analysis.
 ## Installation Instructions/Setup
